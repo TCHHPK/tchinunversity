@@ -20,9 +20,21 @@ int main()
 	if(n%400==0)
 	cout<<1<<endl;
 	else if(n%4==0&&n%100!=0)
-	cout<<1<<endl;
+		cout<<1<<endl;
 	else
-	cout<<0<<endl;
+		cout<<0<<endl;
+
+		
+		
+		
+		if(somtihng)
+		{
+			do sth1;
+		}
+		else
+		{
+			do sth2;
+		}
 
     return 0;
 }
